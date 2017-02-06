@@ -10,7 +10,7 @@
     "PLMsh": "./test.js"
   },
   "dependencies": {
-    "serialport": "1.1.0"
+    "serialport": "4.0.7"
   },
   "bugs": {
     "url": "https://github.com/11rcombs/node-PLM/issues",
